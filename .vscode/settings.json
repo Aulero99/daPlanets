@@ -1,0 +1,14 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#49e8e4",
+    "activityBar.background": "#49e8e4",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#e655ea",
+    "activityBarBadge.foreground": "#15202b"
+  },
+  "peacock.color": "#1de1dc",
+  "cSpell.words": [
+    "virtuals"
+  ]
+}
